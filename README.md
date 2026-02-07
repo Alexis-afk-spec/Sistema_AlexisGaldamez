@@ -2,6 +2,7 @@
 Mi primer sistema en GitHub para la materia.
 
 **Nombre:** Alexis Wilfredo Galdámez Ayala.
+
 **Lo que estoy aprendiendo:** Fundamentos de GitHub, repositorios y control de versiones.
 
 ### 3 cosas nuevas que descubrí sobre GitHub:
